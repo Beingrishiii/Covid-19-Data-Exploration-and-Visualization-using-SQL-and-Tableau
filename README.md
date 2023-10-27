@@ -4,4 +4,6 @@ Imported the Covid Deaths and Vaccinations tables from the source. Processed dat
 ## Source:
 https://ourworldindata.org/covid-deaths
 
+
 ## Tableau Dashboard:
+https://public.tableau.com/app/profile/rishi.raj.thakur/viz/Covid19ProjectDashboard_16983972091100/Dashboard1?publish=yes
